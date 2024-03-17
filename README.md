@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ProjectArtur</h1>
+<h1 align="center">Hi 👋, I'm Artur</h1>
 <h3 align="center">A passionate student in Business Informatics from Germany</h3>
 
 - 🔭 I’m currently working on **Building a HTTP Server in Rust**
