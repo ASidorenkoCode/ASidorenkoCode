@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Artur</h1>
 <h3 align="center">A passionate student in Business Informatics from Germany</h3>
 
-- 🔭 I’m currently working on **Building a HTTP Server in Rust**
+<h2>🚀 Current Projects</h2>
+<ul>
+  <li>Developing a Blockchain-based Supply Chain Management System</li>
+  <li>Building a Real-time Data Analytics Dashboard for E-commerce</li>
+  <li>Creating a Machine Learning Model for Predictive Maintenance in Manufacturing</li>
+  <li>Designing a Cross-platform Mobile App for Personal Finance Management</li>
+</ul>
 
 - 🌱 I’m currently learning **Rust**
 
